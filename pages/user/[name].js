@@ -10,10 +10,6 @@ import AchievementCard from '../../components/AchievementCard';
 import confetti from 'canvas-confetti';
 export default function Post({ user }) {
   const router = useRouter();
-  if (!router.isFallback && !user?.Name) {
-    return <ErrorPage statusCode={404} />;
-  }
-
   useEffect(() => {
     confetti({
       particleCount: 150,
@@ -21,6 +17,9 @@ export default function Post({ user }) {
       origin: { y: 0.6 },
     });
   }, []);
+  if (!router.isFallback && !user?.Name) {
+    return <ErrorPage statusCode={404} />;
+  }
 
   const { Name, Twitter, Github, content } = user;
   return (
