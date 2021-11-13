@@ -13,4 +13,4 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ## All time big Achievements
 
 - Started my first Full-time Job at Razorpay 🎉.
-- Took my first workship at JSLovers on creating first babel plugin - [Link](https://www.youtube.com/watch?v=dgK__fSFZzc)
+- Took my first workshop at JSLovers on creating first babel plugin - [Link](https://www.youtube.com/watch?v=dgK__fSFZzc)

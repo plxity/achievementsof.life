@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+  box-sizing: border-box;
+}
 html,
 body {
   padding: 0;
@@ -24,7 +27,19 @@ li {
   font-size: 20px;
   border-bottom: 2px solid rgb(92 179 247);
 }
-
-* {
-  box-sizing: border-box;
+@media (max-width: 1024px) {
+  .create-your-page  {
+    font-size: 24px;
+  }
 }
+@media (max-width: 600px) {
+  .create-your-page  {
+    font-size: 16px;
+  }
+}
+@media (max-width: 320px) {
+  .title {
+    font-size: 1.5rem;
+  }
+}
+
