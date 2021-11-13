@@ -31,6 +31,7 @@
 .title a {
   color: #0070f3;
   text-decoration: none;
+
 }
 
 .title a:hover,
@@ -43,6 +44,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  letter-spacing: 2px;
 }
 
 .title,
@@ -113,4 +115,9 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.subtitle{
+  font-size: 20px;
+  margin-top: 20px
 }

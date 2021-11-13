@@ -1,0 +1,16 @@
+.info-container{
+  margin-top: 50px;
+}
+.title {
+  font-size: 35px;
+}
+.icon-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  margin: 0 auto;
+}
+.social-icon {
+  width: 22px;
+  height: 22px;
+}
