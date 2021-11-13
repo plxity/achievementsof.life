@@ -6,7 +6,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
 ## November 2021
-
+- Create a notebook (a webapp) to document my achievements - [link](https://www.achievementsof.life/plxity)
 - Contributed to OSS project after a long time - [Link](https://github.com/thysultan/stylis.js/pull/276)
 - Built a smol plugin for ESBuild - [Link](https://github.com/plxity/esbuild-cross-browser-css)
 
