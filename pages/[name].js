@@ -1,13 +1,15 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import ErrorPage from 'next/error';
-import Layout from '../../components/Layout';
-import { getUserInfoByName, getUsersSlugs } from '../../lib/api';
+
+import Layout from '../components/Layout';
+import { getUserInfoByName, getUsersSlugs } from '../lib/api';
 import Head from 'next/head';
-import markdownToHtml from '../../lib/markdownToHtml';
-import InfoHeader from '../../components/InfoHeader';
-import AchievementCard from '../../components/AchievementCard';
+import markdownToHtml from '../lib/markdownToHtml';
+import InfoHeader from '../components/InfoHeader';
+import AchievementCard from '../components/AchievementCard';
 import confetti from 'canvas-confetti';
+
 export default function Post({ user }) {
   const router = useRouter();
   useEffect(() => {
@@ -33,6 +35,12 @@ export default function Post({ user }) {
           </Head>
           <InfoHeader name={Name} twitter={Twitter} github={Github} />
           <AchievementCard content={content} />
+          <a
+            href="https://github.com/plxity/achievementsof.life#readme"
+            className="create-your-page"
+          >
+            Create your achievements page 🎉
+          </a>
         </>
       )}
     </Layout>

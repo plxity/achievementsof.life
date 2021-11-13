@@ -11,14 +11,18 @@ a {
   text-decoration: none;
   border-bottom: 2px;
   font-weight: 600;
-  color: rgb(10, 145, 249)
-  
+  color: rgb(10, 145, 249);
 }
-ul{
+ul {
   margin-top: 10px;
 }
-li{
+li {
   margin-top: 6px;
+}
+.create-your-page {
+  margin-top: 40px;
+  font-size: 20px;
+  border-bottom: 2px solid rgb(92 179 247);
 }
 
 * {
