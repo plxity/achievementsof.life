@@ -32,6 +32,7 @@ export default function Post({ user }) {
         <>
           <Head>
             <title>{Name} achievements 🎉</title>
+            <link rel="icon" href="/achievements.svg" />
           </Head>
           <InfoHeader name={Name} twitter={Twitter} github={Github} />
           <AchievementCard content={content} />
