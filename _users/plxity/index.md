@@ -5,6 +5,9 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## December 2021
+- Appointed as Twitter community lead, India 🎉 - [link](https://twitter.com/pragdua/status/1467559757087068162)
+
 ## November 2021
 - Launched a webapp to find interesting spaces happening on twitter - [link](https://lookfora.space/)
 - Created a notebook (a webapp) to document my achievements - [link](https://www.achievementsof.life/plxity)
