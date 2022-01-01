@@ -7,6 +7,10 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 
 ## December 2021
 - Appointed as Twitter community lead, India 🎉 - [link](https://twitter.com/pragdua/status/1467559757087068162)
+- Took one week vacation to Goa with college friends.
+- Being a birthday month, it is already special to me. 
+- Figured ways to make money from side gigs.
+
 
 ## November 2021
 - Launched a webapp to find interesting spaces happening on twitter - [link](https://lookfora.space/)
