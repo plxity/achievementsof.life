@@ -5,6 +5,10 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## January 2022
+> Interesting things coming up...
+
+
 ## December 2021
 - Appointed as Twitter community lead, India 🎉 - [link](https://twitter.com/pragdua/status/1467559757087068162)
 - Took one week vacation to Goa with college friends.
