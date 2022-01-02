@@ -5,6 +5,75 @@ Github: "https://github.com/Siddhant-K-code"
 Interests: ["Coding", "Open Source", "Chess", "Side Projects"]
 ---
 
+## December 2021
+
+- Became College Campus Lead 🎉.
+- Delivered multiples talks on GitHub Workflows, GitHub Student Developer Pack, GitHub Actions, and GitHub Enterprise at College.
+- Collaborated with Faculties to Conduct a Hands-On Training on AWS Cloud Foundations at College.
+- Rejected by Meta after acing all the rounds, due to some different region issue.
+
+## November 2021
+
+- Started Programming Club at College.
+- Our College got partnered with GitHub Campus Partner Program.
+- Conducted a Introductory Workshops at College regarding Git & GitHub.
+- Worked on some Freelance & Part-time Projects.
+
+## October 2021
+
+- Ended up with all the internships, free time & travel.
+
+## September 2021
+
+- Rejected for Google SWE Intern (Hiring Committe) - [Siddhant Khare's Google SWE Intern Interview Experience](https://siddhantkhare2694.medium.com/google-swe-summer-intern-2022-interview-experience-27d48be23cb5).
+- Qualified Qualification Round (3624th), Round 1 (1901st Rank ) & ranked 2233rd in Round 2 at Facebook Hacker Cup 2021 - [link](https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/273777667307158).
+
+## August 2021
+
+- Google Referral
+- Interview Grind
+
+## July 2021
+
+- Recieved an Offer for Software Engineering Intern at [Hudson River Trading](https://www.hudsonrivertrading.com/) 🎉. Declined due to COVID-19 travel restrictions.
+- Recieved an Offer for Software Engineering Intern at [Duolingo](https://duolingo.com/) 🎉. Declined due to COVID-19 travel restrictions + less pay.
+- Started a new Remote Internship with [Hikaya](https://hikaya.io) as SWE Intern.
+
+## June 2021
+
+- Started another Part-time Work Parallely with [Bread](https://trybread.io).
+- Published Landing Page of [MetaCall](https://github.com/metacall) Core - [link](https://github.com/metacall/landing-page).
+- Aced Online Assessment Round for Hudson River Trading.
+- Rejected for the Uber (_Onsite_) & Yelp(_ghosted_) internships.
+
+## May 2021
+
+- Qualified Qualification Round, Round 1 (1454th Rank ) & ranked 3329th in Round 2 at Google CodeJam 2021 - [link](https://drive.google.com/file/d/1GTLT8QPFNE2WawEDeOj7PLU2CkKHLiLu/view).
+- Referred for Uber US & Yelp for SWE Internship.
+- Rejected from Hackerrank - [Interview Experience](https://leetcode.com/discuss/interview-experience/1207463/hackerrank-swe-intern-2021).
+
+## April 2021
+
+- Setup the base code/pipelines for the new version of TechVault website.
+- Invited for an Opportunity to Interview with Hackerrank IN for SWE Intern.
+- Our Team of GitHub1s delivered a talk at DevXConf - GitPod, [session on youtube](https://youtu.be/6Xyg6yQe2rk?t=900).
+
+## March 2021
+
+- Contributed, Maintained, Collaborated to GitHub1s for the new version.
+- Designed the architecture for TechVault webapp.
+
+## February 2021
+
+- Appointed as a Maintainer & Collaborator of [GitHub1s](https://github.com/conwnet/github1s), worked with [netcon](https://github.com/conwnet) & [SWE @Twitter - xvc58](https://twitter.com/xcv58).
+- Got My First Intenship offer at a US Based Startup, [TechVault](https://techvault.tech/) in my second year of college through my GitHub Profile.
+
+## January 2021
+
+- Found My Mentors for Tech, Personal, and Work. 💙
+- Started working as a tech advisor at a UK based Startup.
+- Working with on Some Part-time Projects.
+
 ## December 2020
 
 - Selected as a participant of Nijack Winter of Code (NWoC) - IIT Patna
