@@ -18,6 +18,7 @@ We often forget to celebrate our small achievements (At least that's the case wi
 Name: 'Apoorv Taneja'
 Twitter: 'https://twitter.com/apoorv_taneja'
 Github: 'https://github.com/plxity'
+Peerlist: 'https://peerlist.io/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
