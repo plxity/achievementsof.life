@@ -2,6 +2,7 @@
 Name: "Siddhant Khare"
 Twitter: "https://twitter.com/intent/follow?screen_name=Siddhant_k_code"
 Github: "https://github.com/Siddhant-K-code"
+Peerlist: "https://peerlist.io/siddhant"
 Interests: ["Coding", "Open Source", "Chess", "Side Projects"]
 ---
 
