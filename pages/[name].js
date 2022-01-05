@@ -23,7 +23,7 @@ export default function Post({ user }) {
     return <ErrorPage statusCode={404} />;
   }
 
-  const { Name, Twitter, Github, content } = user;
+  const { Name, Twitter, Github, Peerlist, content } = user;
   return (
     <Layout>
       {router.isFallback ? (
@@ -34,7 +34,7 @@ export default function Post({ user }) {
             <title>{Name} achievements 🎉</title>
             <link rel="icon" href="/achievements.svg" />
           </Head>
-          <InfoHeader name={Name} twitter={Twitter} github={Github} />
+          <InfoHeader name={Name} twitter={Twitter} github={Github} peerlist={Peerlist}/>
           <AchievementCard content={content} />
           <a
             href="https://github.com/plxity/achievementsof.life#readme"
@@ -53,6 +53,7 @@ export async function getStaticProps({ params }) {
     'Name',
     'Twitter',
     'Github',
+    'Peerlist',
     'Interest',
     'content',
   ]);
