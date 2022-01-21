@@ -6,7 +6,8 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
 ## January 2022
-> Interesting things coming up...
+- Generated extra income by doing some freelance work for the first time. 
+- Connected to twitter community leads across the globe.
 
 
 ## December 2021
