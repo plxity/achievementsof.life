@@ -8,6 +8,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ## January 2022
 - Generated extra income by doing some freelance work for the first time. 
 - Connected to twitter community leads across the globe.
+- Worked on building a dating app for twitter user - [Twinder][http://twinder.fun/]
 
 
 ## December 2021
