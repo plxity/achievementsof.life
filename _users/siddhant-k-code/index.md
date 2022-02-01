@@ -6,8 +6,15 @@ Peerlist: "https://peerlist.io/siddhant"
 Interests: ["Coding", "Open Source", "Chess", "Side Projects"]
 ---
 
+
+## January 2022 
+
+- Selected for the GitHub Extern'21 Winter Co-Hort for GitHub India Engineering Team - [Link](https://twitter.com/Siddhant_K_code/status/1481642777570349064)
+- Became Project Lead @[TreeTracker Wallet Web](https://github.com/Greenstand/treetracker-wallet-web)
+
 ## December 2021
 
+- Started my Journey w/ [Greenstand](https://www.greenstand.org/) as DevOps Engineer.
 - Became College Campus Lead 🎉.
 - Delivered multiples talks on GitHub Workflows, GitHub Student Developer Pack, GitHub Actions, and GitHub Enterprise at College.
 - Collaborated with Faculties to Conduct a Hands-On Training on AWS Cloud Foundations at College.
