@@ -5,6 +5,12 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## February 2022
+- Spoke to 2 VC's for the first time regarding Twinder.
+- Continued working on product and marketing aspect [Twinder](http://twinder.fun/)
+- Started a new Freelance work. 
+
+
 ## January 2022
 - Generated extra income by doing some freelance work for the first time. 
 - Connected to twitter community leads across the globe.
