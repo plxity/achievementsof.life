@@ -20,7 +20,18 @@ Interests: ['Coding', 'Community work', 'Music']
 
 - Got good at **Docker**. Containerized all of my old projects.
 
+## Febuarary 2022
+
+- Completed my Internship at Jusapy [Check here](https://dev.to/kitarp/my-juspay-internship-experience-46pc)
+
+- Won a prize money for **Gitlab** Survey feedback
+
+- Won a Research payout from **Paypal**. Earned 150$ for my work and help.
+
+- Focusing on passing in my offline college exams.
+
 ## All time big Achievements
 
-- Got my Internship at [Juspay](juspay.in) 🎉.
+- Interned at [Juspay](juspay.in) 🎉.
+- Got selected as Github Extern.
 - Selected as LiFT Scholar by The Linux Foundation.
