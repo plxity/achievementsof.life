@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  coverage:
-    name: Coverage
+  automatic-pr-merge:
+    name: Automatic PR Merge
     runs-on: ubuntu-latest
     steps:
 
