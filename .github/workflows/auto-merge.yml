@@ -2,7 +2,7 @@ name: Auto Merge of PRs for Users Data
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,16 @@ jobs:
     name: Automatic PR Merge
     runs-on: ubuntu-latest
     steps:
-
       - name: Verify Changed files
         uses: tj-actions/verify-changed-files@v8.8
         id: changed_files
         with:
           files: _users/*
+
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Commit files
         if: steps.changed_files.outputs.files_changed == 'true'
@@ -24,7 +28,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add _users/*
           git commit -m "Updated Achievements :rocket:"
-
       - name: Push changes
         if: steps.changed_files.outputs.files_changed == 'true'
         uses: ad-m/github-push-action@master
