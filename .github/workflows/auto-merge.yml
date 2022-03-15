@@ -10,6 +10,10 @@ jobs:
     name: Automatic PR Merge
     runs-on: ubuntu-latest
     steps:
+     - uses: actions/checkout@v2
+       with:
+         persist-credentials: false
+         fetch-depth: 0 
 
       - name: Verify Changed files
         uses: tj-actions/verify-changed-files@v8.8
