@@ -8,6 +8,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ## March 2022
 - Explored Bangalore, Coorg, Delhi with online friends whom I met for the first time.
 - Working on a new product idea with a new set of people.
+- more updates soon...
 
 
 ## February 2022
