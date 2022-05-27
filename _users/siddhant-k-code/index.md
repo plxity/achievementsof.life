@@ -6,8 +6,23 @@ Peerlist: "https://peerlist.io/siddhant"
 Interests: ["Coding", "Open Source", "Chess", "Side Projects"]
 ---
 
+## May 2022
+- Externship ended at GitHub
+- Joined [Gitpod](https://gitpod.io) as Software Engineer Intern 🎉
 
-## January 2022 
+## April 2022
+- Major Releases of a Product for Internal Staff Tools for GitHub.
+- 3 Weeks Long Trip: ✈️ Jabalpur -> Mumbai -> Uttarakhand -> Delhi -> Jabalpur
+
+## March 2022
+- Shipped two minor features to GitHub.
+
+## February 2022
+- Started my Externship at GitHub India
+- First minor PR to github.com 🎉
+- Written Bunch of [twitter threads on system design](https://twitter.com/search?q=System+Design(from%3ASiddhant_K_code))
+
+## January 2022
 
 - Selected for the GitHub Extern'21 Winter Co-Hort for GitHub India Engineering Team - [Link](https://twitter.com/Siddhant_K_code/status/1481642777570349064)
 - Became Project Lead @[TreeTracker Wallet Web](https://github.com/Greenstand/treetracker-wallet-web)
