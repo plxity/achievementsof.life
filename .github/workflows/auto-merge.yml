@@ -28,7 +28,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add _users/*
           git commit -m "Updated Achievements :rocket:"
-
       - name: Push changes
         if: steps.changed_files.outputs.files_changed == 'true'
         uses: ad-m/github-push-action@master

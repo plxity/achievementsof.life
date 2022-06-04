@@ -5,6 +5,12 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## March 2022
+- Explored Bangalore, Coorg, Delhi with online friends whom I met for the first time.
+- Working on a new product idea with a new set of people.
+- more updates soon...
+
+
 ## February 2022
 - Spoke to 2 VC's for the first time regarding Twinder.
 - Continued working on product and marketing aspect [Twinder](http://twinder.fun/)
