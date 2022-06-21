@@ -6,32 +6,38 @@ on:
   workflow_dispatch:
 
 jobs:
-  automatic-pr-merge:
-    name: Automatic PR Merge
+  detect-files-changed:
+    name: Detect File Changes
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Verify Changed files
-        uses: tj-actions/verify-changed-files@v8.8
-        id: changed_files
+        uses: tj-actions/verify-changed-files@v9.2
+        id: verify-changed-files
         with:
-          files: _users/*
-
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-
-      - name: Commit files
-        if: steps.changed_files.outputs.files_changed == 'true'
+          files: |
+            *.md
+            _users
+      - name: Run step only when files change. # For Debugging
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add _users/*
-          git commit -m "Updated Achievements :rocket:"
-
-      - name: Push changes
-        if: steps.changed_files.outputs.files_changed == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          echo "Changed files: ${{ steps.verify-changed-files.outputs.changed_files }}"
+  merge-pr:
+    name: Merge PRs for Users Data
+    needs: detect-files-changed
+    runs-on: ubuntu-latest
+    steps:
+      - name: automerge
+        uses: "pascalgn/automerge-action@v0.15.3"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "pull-request-title-and-description"
+          MERGE_FORKS: "false"
+          MERGE_RETRIES: "6"
+          MERGE_RETRY_SLEEP: "10000"
+          MERGE_DELETE_BRANCH: true
+          UPDATE_LABELS: ""
+          UPDATE_METHOD: "rebase"
