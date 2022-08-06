@@ -5,6 +5,26 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## August 2022
+- Working on interesting updates for this month 🎉
+
+## July 2022✨
+- [runner up prize](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) (500$) in hashnode x linode hackathon 🎉
+- Attended a lot of meetups and networked with great people.
+- Completed one year at razorpay 
+
+## June 2022
+- Built an [app](http://get-referral.vercel.app/) to manage referrals easily 🛠
+- Participated in the [hashnode hackathon](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) 🧑‍💻
+
+## May 2022
+- Took a small break and went to rishikesh
+
+## April 2022
+- Attended convocation 👨‍🎓
+## March 2022
+- Launched [Twinder](http://twinder.fun/) 💜
+
 ## February 2022
 - Spoke to 2 VC's for the first time regarding Twinder.
 - Continued working on product and marketing aspect [Twinder](http://twinder.fun/)
