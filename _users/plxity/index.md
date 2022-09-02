@@ -6,7 +6,9 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
 ## August 2022
-- Working on interesting updates for this month 🎉
+- Launched one more product built on top of GPT3. [Tunes for Tale](http://tunesfortales.fun/) 🎉
+- Launched my first product on [Product Hunt](https://www.producthunt.com/posts/tunes-for-tales) 🛠
+
 
 ## July 2022✨
 - [runner up prize](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) (500$) in hashnode x linode hackathon 🎉
