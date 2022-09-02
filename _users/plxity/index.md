@@ -10,6 +10,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 - Launched my first product on [Product Hunt](https://www.producthunt.com/posts/tunes-for-tales) 🛠
 
 
+
 ## July 2022✨
 - [runner up prize](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) (500$) in hashnode x linode hackathon 🎉
 - Attended a lot of meetups and networked with great people.
