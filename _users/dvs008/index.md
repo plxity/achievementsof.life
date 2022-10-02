@@ -12,5 +12,6 @@ Interests: ['Coding', 'Video Editing', 'Video Making']
 ## All time big Achievements
 
 - Started my first Full-time Job 🎉.
+- created an Instagram page @movietrigger where I talk about and reached 5k followers 
 - Created short film charan C/O Chalanachitram and got side gigs due to that project.
-- Got 1st first prize for the short film contest.
+- Winner of Short film contest for Kuruksastra'20 university short film contest.
