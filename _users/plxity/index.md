@@ -5,6 +5,10 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## September 2022
+- Tried playing around with Mediapipe and made [virtual drums](https://plxity.github.io/Drums-with-hand-recognition/).
+- Bought my first Jordans 👟
+
 ## August 2022
 - Launched one more product built on top of GPT3. [Tunes for Tale](http://tunesfortales.fun/) 🎉
 - Launched my first product on [Product Hunt](https://www.producthunt.com/posts/tunes-for-tales) 🛠
