@@ -5,6 +5,9 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## October 2022
+- Built my first web3 project, a realtime gassless nft drop with a tweet platform - [Link](http://twift.club/) 🛠
+- Worked on a bot that helps you connect with a larger audience to hangout or vibe with - [Link](https://twitter.com/@2by7bot)
 ## September 2022
 - Tried playing around with Mediapipe and made [virtual drums](https://plxity.github.io/Drums-with-hand-recognition/).
 - Bought my first Jordans 👟
@@ -12,8 +15,6 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ## August 2022
 - Launched one more product built on top of GPT3. [Tunes for Tale](http://tunesfortales.fun/) 🎉
 - Launched my first product on [Product Hunt](https://www.producthunt.com/posts/tunes-for-tales) 🛠
-
-
 
 ## July 2022✨
 - [runner up prize](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) (500$) in hashnode x linode hackathon 🎉
