@@ -5,6 +5,9 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## November 2022
+- Promoted to Senior Frontend engineer at Razorpay.
+
 ## October 2022
 - Built my first web3 project, a realtime gassless nft drop with a tweet platform - [Link](http://twift.club/) 🛠
 - Worked on a bot that helps you connect with a larger audience to hangout or vibe with - [Link](https://twitter.com/@2by7bot)
