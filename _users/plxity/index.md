@@ -5,6 +5,11 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+
+## January 2023
+- I did nothing :) 
+## December 2022
+- Went to THE SPITI VALLEY with college friends 🏔
 ## November 2022
 - Promoted to Senior Frontend engineer at Razorpay.
 
