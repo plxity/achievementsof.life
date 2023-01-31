@@ -7,6 +7,10 @@ Peerlist: "https://peerlist.io/sarveshjoshi"
 Interests: ['Coding', 'Hip Hop', 'Side Projects']
 ---
 
+## January 2023
+- Started learning Node JS
+- Received a message, and then got an interview with mydukaan.io for SDE Intern Position. 
+- Building Django API for my side project ModernConnect, Deployed on Render. Github (https://github.com/SarveshJoshi25/ModernConnect) 
 ## February 2022
 
 - Built multiple small projects for Team Building Activity with new team 
