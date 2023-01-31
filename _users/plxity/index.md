@@ -5,6 +5,42 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+
+## January 2023
+- I did nothing :) 
+## December 2022
+- Went to THE SPITI VALLEY with college friends 🏔
+## November 2022
+- Promoted to Senior Frontend engineer at Razorpay.
+
+## October 2022
+- Built my first web3 project, a realtime gassless nft drop with a tweet platform - [Link](http://twift.club/) 🛠
+- Worked on a bot that helps you connect with a larger audience to hangout or vibe with - [Link](https://twitter.com/@2by7bot)
+## September 2022
+- Tried playing around with Mediapipe and made [virtual drums](https://plxity.github.io/Drums-with-hand-recognition/).
+- Bought my first Jordans 👟
+
+## August 2022
+- Launched one more product built on top of GPT3. [Tunes for Tale](http://tunesfortales.fun/) 🎉
+- Launched my first product on [Product Hunt](https://www.producthunt.com/posts/tunes-for-tales) 🛠
+
+## July 2022✨
+- [runner up prize](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) (500$) in hashnode x linode hackathon 🎉
+- Attended a lot of meetups and networked with great people.
+- Completed one year at razorpay 
+
+## June 2022
+- Built an [app](http://get-referral.vercel.app/) to manage referrals easily 🛠
+- Participated in the [hashnode hackathon](https://townhall.hashnode.com/linode-x-hashnode-hackathon-winners) 🧑‍💻
+
+## May 2022
+- Took a small break and went to rishikesh
+
+## April 2022
+- Attended convocation 👨‍🎓
+## March 2022
+- Launched [Twinder](http://twinder.fun/) 💜
+
 ## February 2022
 - Spoke to 2 VC's for the first time regarding Twinder.
 - Continued working on product and marketing aspect [Twinder](http://twinder.fun/)
