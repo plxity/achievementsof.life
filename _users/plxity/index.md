@@ -5,6 +5,17 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## April 2023
+- Travlled a bit more [goa](https://twitter.com/apoorv_taneja/status/1647149026796789761), blr and [ooty](https://twitter.com/apoorv_taneja/status/1651123294836518912) 🏖 🌵
+- learned a bit of digital marketing for my [planters store](https://mydukaan.io/potstation)
+- got a good hold on framer-motion 🪄
+
+
+## March 2023
+- Start learning framer-motion. made a few quick prototypes: [link 1](https://twitter.com/apoorv_taneja/status/1640276035592699904), [link 2](https://twitter.com/apoorv_taneja/status/1640333349892902912) 🪄
+- started an [ecommerce store](https://mydukaan.io/potstation) for selling cute planters 🪴
+## February 2023
+- On a break
 
 ## January 2023
 - I did nothing :) 
