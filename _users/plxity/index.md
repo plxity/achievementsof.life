@@ -5,6 +5,9 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## May 2023
+- Built more stuff with framer and started a new [project](https://github.com/plxity/framer-recipes) around it.
+
 ## April 2023
 - Travelled a bit more [goa](https://twitter.com/apoorv_taneja/status/1647149026796789761), blr and [ooty](https://twitter.com/apoorv_taneja/status/1651123294836518912) 🏖 🌵
 - learned a bit of digital marketing for my [planters store](https://mydukaan.io/potstation)
