@@ -34,7 +34,7 @@ Interests: ["Coding", "Video Editing", "Side Projects"]
 ```
 
 5. Raise a PR for your name and I'll merge it.
-6. View your page at `achievementsof.life.vercel.app/{github_username}`
+6. View your page at `achievementsof-life.vercel.app/{github_username}`
 
 ## Contribution
 
