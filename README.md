@@ -15,11 +15,11 @@ We often forget to celebrate our small achievements (At least that's the case wi
 
 ```markdown
 ---
-Name: 'Apoorv Taneja'
-Twitter: 'https://twitter.com/apoorv_taneja'
-Github: 'https://github.com/plxity'
-Peerlist: 'https://peerlist.io/plxity'
-Interests: ['Coding', 'Video Editing', 'Side Projects']
+Name: "Apoorv Taneja"
+Twitter: "https://twitter.com/apoorv_taneja"
+Github: "https://github.com/plxity"
+Peerlist: "https://peerlist.io/plxity"
+Interests: ["Coding", "Video Editing", "Side Projects"]
 ---
 
 ## November 2021
@@ -34,7 +34,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 ```
 
 5. Raise a PR for your name and I'll merge it.
-6. View your page at `achievementsof.life/{github_username}`
+6. View your page at `achievementsof-life.vercel.app/{github_username}`
 
 ## Contribution
 
