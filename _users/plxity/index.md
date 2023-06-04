@@ -7,6 +7,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 
 ## May 2023
 - Built more stuff with framer and started a new [project](https://github.com/plxity/framer-recipes) around it.
+- Played with LLMs and LangChain to build figma to blade convertor. 
 
 ## April 2023
 - Travelled a bit more [goa](https://twitter.com/apoorv_taneja/status/1647149026796789761), blr and [ooty](https://twitter.com/apoorv_taneja/status/1651123294836518912) 🏖 🌵
