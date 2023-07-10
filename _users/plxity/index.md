@@ -5,6 +5,13 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## July 2023
+- Participated in company's hackathon and built a very cool business intelligence tool on top of langchain and LLMs [Link](https://twitter.com/apoorv_taneja/status/1677365455902867457?s=20)
+
+## June 2023
+- Attented my first in-person conference (JS Conf 2023)
+- Copped one more sneaker pair (Trinity X 1DER) [Link](https://twitter.com/apoorv_taneja/status/1673723733813641216?s=20)
+
 ## May 2023
 - Built more stuff with framer and started a new [project](https://github.com/plxity/framer-recipes) around it.
 - Played with LLMs and LangChain to build figma to blade convertor. 
