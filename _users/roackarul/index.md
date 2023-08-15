@@ -2,7 +2,7 @@
 Name: 'Paul Anastasiu'
 Twitter: 'https://twitter.com/@roackarul'
 Github: 'https://github.com/roackarul'
-Interests: ['UX/UI Design', 'Rollerblading', 'Snowboarding', 'Investing', 'Saving the planet']
+Interests: ['UX/UI Design', 'Rollerblading', 'Snowboarding', 'Investing']
 ---
 
 ## August 2023
