@@ -5,6 +5,10 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## August 2023
+- Gave first in-person talk at React Bangalore about new Scroll driven animation API👨‍💻
+- Bought a new domian, trying to build something (again) 🛠️
+
 ## July 2023
 - Participated in company's hackathon and built a very cool business intelligence tool on top of langchain and LLMs [Link](https://twitter.com/apoorv_taneja/status/1677365455902867457?s=20)
 
