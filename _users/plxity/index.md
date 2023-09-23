@@ -4,6 +4,8 @@ Twitter: 'https://twitter.com/apoorv_taneja'
 Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
+## September 2023
+- Shipped a new product, [ProductGenie](https://www.productgenie.in/) -- An app that generates stunning product images using AI in seconds 🪄
 
 ## August 2023
 - Gave first in-person talk at React Bangalore about new Scroll driven animation API👨‍💻
