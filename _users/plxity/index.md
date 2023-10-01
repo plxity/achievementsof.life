@@ -5,6 +5,8 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 ## September 2023
+- runner up in Peerlist AI hackathon, built [ProductGenie](https://www.productgenie.in/) during the hackathon 
+- travelled to McLeoadganj and Bir 🏔️
 - Shipped a new product, [ProductGenie](https://www.productgenie.in/) -- An app that generates stunning product images using AI in seconds 🪄
 
 ## August 2023
