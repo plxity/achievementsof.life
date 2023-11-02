@@ -17,5 +17,5 @@ Interests: ["Coding", "Business", "Finance"]
 
 ## July 2023
 
-- Participated in IIM Banglore's Vista Business Event and came first in their Case Comptition.
+- Participated in IIM Banglore's Vista Business Event and came first in their Case Competition.
 - Blew another Tech Interview :(
