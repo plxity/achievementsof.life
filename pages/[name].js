@@ -1,14 +1,14 @@
-import { useEffect } from 'react';
-import { useRouter } from 'next/router';
-import ErrorPage from 'next/error';
+import { useEffect } from "react";
+import { useRouter } from "next/router";
+import ErrorPage from "next/error";
 
-import Layout from '../components/Layout';
-import { getUserInfoByName, getUsersSlugs } from '../lib/api';
-import Head from 'next/head';
-import markdownToHtml from '../lib/markdownToHtml';
-import InfoHeader from '../components/InfoHeader';
-import AchievementCard from '../components/AchievementCard';
-import confetti from 'canvas-confetti';
+import Layout from "../components/Layout";
+import { getUserInfoByName, getUsersSlugs } from "../lib/api";
+import Head from "next/head";
+import markdownToHtml from "../lib/markdownToHtml";
+import InfoHeader from "../components/InfoHeader";
+import AchievementCard from "../components/AchievementCard";
+import confetti from "canvas-confetti";
 
 export default function Post({ user }) {
   const router = useRouter();
@@ -23,7 +23,7 @@ export default function Post({ user }) {
     return <ErrorPage statusCode={404} />;
   }
 
-  const { Name, Twitter, Github, Peerlist, content } = user;
+  const { Name, Twitter, Github, Peerlist, Linkedin, content } = user;
   return (
     <Layout>
       {router.isFallback ? (
@@ -34,7 +34,13 @@ export default function Post({ user }) {
             <title>{Name} achievements 🎉</title>
             <link rel="icon" href="/achievements.svg" />
           </Head>
-          <InfoHeader name={Name} twitter={Twitter} github={Github} peerlist={Peerlist}/>
+          <InfoHeader
+            name={Name}
+            twitter={Twitter}
+            github={Github}
+            peerlist={Peerlist}
+            linkedin={Linkedin}
+          />
           <AchievementCard content={content} />
           <a
             href="https://github.com/plxity/achievementsof.life#readme"
@@ -50,14 +56,15 @@ export default function Post({ user }) {
 
 export async function getStaticProps({ params }) {
   const user = getUserInfoByName(params.name, [
-    'Name',
-    'Twitter',
-    'Github',
-    'Peerlist',
-    'Interest',
-    'content',
+    "Name",
+    "Twitter",
+    "Github",
+    "Peerlist",
+    "Linkedin",
+    "Interest",
+    "content",
   ]);
-  const content = await markdownToHtml(user.content || '');
+  const content = await markdownToHtml(user.content || "");
 
   return {
     props: {
@@ -70,7 +77,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const users = getUsersSlugs(['name']);
+  const users = getUsersSlugs(["name"]);
   return {
     paths: users.map((user) => {
       return {

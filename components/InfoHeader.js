@@ -1,18 +1,24 @@
-import React from 'react';
-import styles from './InfoHeader.module.css';
+import React from "react";
+import styles from "./InfoHeader.module.css";
 // import TwitterIcon from '/twitter.svg';
 // import GitHubIcon from '/GitHub.svg';
-export default function InfoHeader({ name = '', github = '', twitter = '', peerlist= '' }) {
+export default function InfoHeader({
+  name = "",
+  github = "",
+  twitter = "",
+  peerlist = "",
+  linkedin = "",
+}) {
   return (
-    <div className={styles['info-container']}>
-      <h1 className={styles['title']}>{name}</h1>
-      <div className={styles['icon-container']}>
+    <div className={styles["info-container"]}>
+      <h1 className={styles["title"]}>{name}</h1>
+      <div className={styles["icon-container"]}>
         {twitter && (
           <a href={twitter}>
             <img
               src="/twitter.svg"
               alt="twitter-icon"
-              className={styles['social-icon']}
+              className={styles["social-icon"]}
             />
           </a>
         )}
@@ -21,7 +27,7 @@ export default function InfoHeader({ name = '', github = '', twitter = '', peerl
             <img
               src="/github.svg"
               alt="github-icon"
-              className={styles['social-icon']}
+              className={styles["social-icon"]}
             />
           </a>
         )}
@@ -30,7 +36,16 @@ export default function InfoHeader({ name = '', github = '', twitter = '', peerl
             <img
               src="/peerlist.svg"
               alt="peerlist-icon"
-              className={styles['social-icon']}
+              className={styles["social-icon"]}
+            />
+          </a>
+        )}
+        {linkedin && (
+          <a href={linkedin}>
+            <img
+              src="/linkedin.svg"
+              alt="linkedin-icon"
+              className={styles["social-icon"]}
             />
           </a>
         )}
