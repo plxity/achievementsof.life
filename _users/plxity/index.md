@@ -4,6 +4,13 @@ Twitter: 'https://twitter.com/apoorv_taneja'
 Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
+
+## October 2023
+
+- Went on my first international trip to thailand 🇹🇭
+- Did scuba diving (12m) for the first time 🤿
+- Resigned from Razopray after 2+ years 
+
 ## September 2023
 - runner up in Peerlist AI hackathon, built [ProductGenie](https://www.productgenie.in/) during the hackathon 
 - travelled to McLeoadganj and Bir 🏔️
