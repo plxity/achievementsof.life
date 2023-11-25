@@ -5,6 +5,10 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## November 2023
+
+- meh month :(
+
 ## October 2023
 
 - Went on my first international trip to thailand 🇹🇭
