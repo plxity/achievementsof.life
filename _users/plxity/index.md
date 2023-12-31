@@ -4,6 +4,10 @@ Twitter: 'https://twitter.com/apoorv_taneja'
 Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
+## December 2023
+- Started a new job at a startup as a senior frontend engineer 🧑‍💻
+- Celebrated 24th with my friends 🎁
+- Visited Khatushaym ji, Salasar Balaji, Pushkar.
 
 ## November 2023
 
