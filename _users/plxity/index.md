@@ -4,6 +4,14 @@ Twitter: 'https://twitter.com/apoorv_taneja'
 Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
+
+## January 2024
+- Completed one month in a new job 🧑‍💻
+- Started contributing to OSS after a long time [Link](https://github.com/plxity?org=documenso&year_list=3)
+- Started working on a side project.
+- Upgraded to iphone 15
+
+
 ## December 2023
 - Started a new job at a startup as a senior frontend engineer 🧑‍💻
 - Celebrated 24th with my friends 🎁
