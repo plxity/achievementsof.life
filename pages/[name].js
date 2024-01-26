@@ -34,14 +34,14 @@ export default function Post({ user }) {
             <title>{Name} achievements 🎉</title>
             <link rel="icon" href="/achievements.svg" />
           </Head>
-          <InfoHeader name={Name} twitter={Twitter} github={Github} peerlist={Peerlist}/>
-          <AchievementCard content={content} />
           <a
             href="https://github.com/plxity/achievementsof.life#readme"
             className="create-your-page"
           >
             Create your achievements page 🎉
           </a>
+          <InfoHeader name={Name} twitter={Twitter} github={Github} peerlist={Peerlist}/>
+          <AchievementCard content={content} />
         </>
       )}
     </Layout>

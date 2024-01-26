@@ -23,9 +23,15 @@ li {
   margin-top: 6px;
 }
 .create-your-page {
-  margin-top: 40px;
   font-size: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 10px 0px;
   border-bottom: 2px solid rgb(92 179 247);
+  background-color: aliceblue;
+  width: 100%;
+  text-align: center;
 }
 @media (max-width: 1024px) {
   .create-your-page  {
