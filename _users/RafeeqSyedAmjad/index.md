@@ -6,7 +6,7 @@ Personal Portfolio: 'https://rafeeq.vercel.app/'
 Interests: ['Coding', 'Fitness', 'Finance']
 ---
 
-## January 2023
+## January 2024
 
 - Started Working with AtoZee Solutions as Freelance Frontend Engineer 🎉
 - Focusing on 0-100 100xdevs Harkirat's Course  - [Link](https://github.com/RafeeqSyedAmjad/Harkirat_0-100)
