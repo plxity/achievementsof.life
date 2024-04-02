@@ -5,6 +5,16 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## March 2024
+- Continued eating clean and lost 2.5kgs
+- Rest of the month was meh
+
+
+## Feburary 2024
+- Copped Chicago Split dunk 👟
+- Started eating clean and lost 1.5Kgs
+- Travelled to goa 🏖
+
 ## January 2024
 - Completed one month in a new job 🧑‍💻
 - Started contributing to OSS after a long time [Link](https://github.com/plxity?org=documenso&year_list=3)
