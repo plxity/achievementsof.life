@@ -11,7 +11,7 @@ Interests: ['Coding', 'Video Editing', 'Side Projects']
 
 
 ## Feburary 2024
-- Copped Chigaco Split dunk 👟
+- Copped Chicago Split dunk 👟
 - Started eating clean and lost 1.5Kgs
 - Travelled to goa 🏖
 
