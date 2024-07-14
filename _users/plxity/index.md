@@ -5,10 +5,21 @@ Github: 'https://github.com/plxity'
 Interests: ['Coding', 'Video Editing', 'Side Projects']
 ---
 
+## July 2024
+- Delivered first conference talk at [ReactNexus 2024](https://reactnexus.com/) about framer-motion 🪄
+
+## June 2024
+- No updates :/
+
+## May 2024
+- Travelled to some off-beat villages in Himachal Pradesh 🏔️ - [Link](https://twitter.com/apoorv_taneja/status/1784142529983852846)
+
+## April 2024
+- No big updates, just a meh month
+
 ## March 2024
 - Continued eating clean and lost 2.5kgs
 - Rest of the month was meh
-
 
 ## Feburary 2024
 - Copped Chicago Split dunk 👟
